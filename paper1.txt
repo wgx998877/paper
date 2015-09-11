@@ -29,12 +29,38 @@ Method
 
 Ground station validation
 
+GEBA数据/BSRN数据/CMA数据
+GEBA数据是。。。，时间范围，空间分布，精度验证
+BSRN数据是。。。，时间范围，空间分布，精度验证
+CMA数据是。。。，时间范围，空间分布，精度验证
+验证结果，BIAS/RMSE
+
 Remote sensing data compare
+
+验证结果-模式-遥感-this paper
+CERES验证结果
+GEWEX验证结果
+比较结果，结论
+
 
 3 Long Term Trend Analysis
 
 Algorithm
+MT
+MK
+APEN
 
 Analysis and Conclusion
+空间结果
+	陆地
+	海洋
+	各大洲
+	中国
+时间结果
+	时间趋势突变点
+	未来预测
+影响因素分析
+	云，气溶胶
 
+结论分析
 
